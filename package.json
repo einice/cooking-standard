@@ -1,0 +1,24 @@
+{
+  "name": "cooking-standard",
+  "version": "0.0.0",
+  "description": "A cooking plugin.",
+  "keywords": [
+    "cooking",
+    "ESlint"
+  ],
+  "scripts": {
+    "test": ""
+  },
+  "license": "MIT",
+  "dependencies": {
+    "eslint": "*",
+    "eslint-loader": "*",
+    "eslint-friendly-formatter": "*",
+    "eslint-config-standard": "*",
+    "eslint-plugin-standard": "*",
+    "eslint-plugin-vue": "*",
+    "eslint-plugin-html": "*",
+    "eslint-plugin-react": "*",
+    "eslint-plugin-promise": "*"
+  }
+}
